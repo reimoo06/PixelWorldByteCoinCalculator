@@ -60,7 +60,7 @@ Please install some packages in order to use this bot.
 
 * [Img Shields](https://shields.io)
 * [PyPi](https://pypi.org)
-* 
+
 
 
 
